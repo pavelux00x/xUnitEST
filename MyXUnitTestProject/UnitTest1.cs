@@ -6,8 +6,8 @@ public class UnitTest1
     public void Test1()
     {
         var calculator = new Calculator();
-        var result = calculator.Add(1, 2);
-        Assert.Equal(3, result);
+        var result = calculator.Add(2, 2);
+        Assert.Equal(4, result);
 
     }
 }
