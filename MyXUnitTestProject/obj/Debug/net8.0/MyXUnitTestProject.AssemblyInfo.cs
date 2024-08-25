@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyXUnitTestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c36e2ecc1dee0f06686260039862f42d948cfc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd5cdbcca4759f429f0effe2b77012f860a8c23")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyXUnitTestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyXUnitTestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
