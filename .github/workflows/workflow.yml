@@ -15,7 +15,7 @@ jobs:
       with:
         azure-devops-project-url: 'https://dev.azure.com/levapfilingeri/DevProject1'
         azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
-        azure-devops-pipeline-name: 'pavelux00x.xUnitEST'
+        azure-pipeline-name: 'pavelux00x.xUnitEST'
         # Add test commands here
 
 
