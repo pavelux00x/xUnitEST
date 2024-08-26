@@ -1,0 +1,20 @@
+name: Pipelineworkflow
+
+on:
+  push:
+    branches:
+    - newbranch
+
+jobs:
+  build:
+    name: Azure pipeline
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Build project
+      run: |
+        # Add build commands here
+    - name: Run tests
+      run: |
+        # Add test commands here
