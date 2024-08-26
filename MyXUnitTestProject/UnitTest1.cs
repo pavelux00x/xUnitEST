@@ -9,7 +9,7 @@ public class UnitTest1
         Assert.Equal(4, add.Add(2, 2));
         if (add.Add(2, 2) == 4)
         {
-            Console.WriteLine("Test Passed");
+            Console.WriteLine("Test Passed Successfully");
         }
         else
         {
